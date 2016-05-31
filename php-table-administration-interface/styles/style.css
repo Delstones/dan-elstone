@@ -1,0 +1,31 @@
+#forminputs{
+	float:left;
+	width:45%;
+}
+#table-wrapper{
+	padding:10px;
+	margin:10px;
+	float:left;
+	width:400px;	
+	background-color:burlywood;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+	border: 1px solid black;
+	margin-top:5px;
+}
+td {
+	border: 1px solid black;
+	padding: 2px;
+}
+tr:nth-child(even) {
+    background-color: white;
+}
+a{
+	color:darkred;
+	font-weight:bold;
+}
+
